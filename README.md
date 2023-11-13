@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="" target="blank"><img src="https://i.imgur.com/PtccoiN.png" width="400" alt="Fastify Logo" /></a>
+  <a href="" target="blank"><img src="https://i.imgur.com/PtccoiN.png" width="600" alt="Fastify Logo" /></a>
 </p>
 
 ## Description
